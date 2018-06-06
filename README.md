@@ -10,3 +10,9 @@ git add ×
 
 git commit -m "这是第一次提交"
 
+
+##创建分支并使用分支
+
+git checkout -b dev
+
+
