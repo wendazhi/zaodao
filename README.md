@@ -16,3 +16,5 @@ git commit -m "这是第一次提交"
 git checkout -b dev
 
 ##添加dev分支
+
+##关联本地dev2分支为远程dev
