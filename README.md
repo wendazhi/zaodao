@@ -15,4 +15,7 @@ git commit -m "这是第一次提交"
 
 git checkout -b dev
 
+##解决分支
+git checkout -b feature
+
 
