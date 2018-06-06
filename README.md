@@ -14,8 +14,5 @@ git commit -m "这是第一次提交"
 ##创建分支并使用分支
 
 git checkout -b dev
-<<<<<<< HEAD
-git checkout -b feature
 
->>>>>>> feature
-
+##添加dev分支
